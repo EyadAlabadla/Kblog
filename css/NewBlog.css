@@ -1,0 +1,24 @@
+#logo
+{
+	float: left;
+	background-color: white;
+	border: solid 3px black;
+	
+}
+#title
+{
+	width: 300px;
+	margin-left: 50px;
+}
+#content
+{
+	width: 580px;
+	resize: none;
+}
+#publish
+{
+	width: 100px;
+	height: 25px;
+	margin-left: 485px;
+}
+

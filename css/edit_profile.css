@@ -1,0 +1,21 @@
+
+.rowName
+{
+	vertical-align: top;
+	text-decoration: underline;
+	color: rgb(20, 20, 20);
+	width: 100px;
+}
+.textBox
+{
+	width: 180px;
+}
+.tarea
+{
+	resize: none;
+	width: 400px;
+}
+#submit
+{
+	margin-left: 350px;
+}

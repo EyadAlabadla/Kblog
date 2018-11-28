@@ -1,0 +1,20 @@
+#signup
+{
+	float: right;
+	margin-top: 5px;
+	background-color: rgba(200, 200, 200, 0.4);
+	border: solid 2px rgba(0, 0, 0, 0.2);
+	border-radius: 7px;
+}
+#login
+{
+	float: right;
+	background-color: rgba(200, 200, 200, 0.4);
+	border: solid 2px rgba(0, 0, 0, 0.2);
+	border-radius: 7px;
+}
+
+#remMe
+{
+	font-size: 14px;
+}

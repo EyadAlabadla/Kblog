@@ -1,0 +1,141 @@
+body
+{
+  background: url("../pictures/bg.jpeg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: arial;
+  color: rgb(219, 219, 219);
+}
+#navBar
+{ 
+  border-color: rgba(0, 0, 0, 0.2);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  margin-top: -8px;
+  margin-bottom: 10px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(200, 200, 200, 0.4);
+}
+#navBar ul 
+{
+  list-style-type: none;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding: 0;
+  overflow: hidden;
+}
+#navBar .li_left
+{
+  float: left;
+  border-right: solid 2px rgba(0, 0, 0, 0.2);
+  padding-bottom: 2px;
+}
+#navBar .li_logo 
+{
+  float: left;
+  border-right: solid 2px rgba(0, 0, 0, 0.2);
+  padding-bottom: 2px;
+}
+#navBar a 
+{
+  display: inline-block;
+  color: rgb(219, 219, 219);
+  font-family: Century Gothic;
+  font-size: 24px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#navBar .li_left:hover 
+{
+  background-color: rgba(230, 230, 230, 0.4);
+}
+#body
+{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#right
+{
+  float: right;
+  width: 350px;
+}
+#left
+{
+  background-color: rgba(200, 200, 200, 0.4);
+  float: left;
+  width: 600px;
+  height: 600px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 3px;
+  border: solid 3px rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
+}
+.formHead
+{
+  color: rgb(20, 20, 20);
+  font-size: 22px;
+}
+#dob
+{
+  width: 220px;
+}
+#left h3
+{
+  color: rgb(20, 20, 20);
+  font-weight: normal;
+}
+.submitButton
+{
+  width: 100px;
+  height: 20px;
+}
+#right1
+{
+  background-color: rgba(200, 200, 200, 0.4);
+  float: right;
+  width: 305px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 3px;
+  border: solid 3px rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
+}
+#right1 table td:hover
+{
+  background-color: rgba(230, 230, 230, 0.4);
+}
+#right1 table
+{
+  width: 100%;
+  border-bottom: dotted 2px #bbbbbb;
+}
+#right1 table tr td
+{
+  border-top: dotted 2px #bbbbbb;
+  padding-left: 22px;
+}
+#right1 table a
+{
+  display: inline-block;
+  text-decoration: none;
+  color: rgb(219, 219, 219);
+  width: 100%;
+}
+#left a
+{
+  text-decoration: none;
+  color: lightblue;
+}
+#left a:visited
+{
+  color: lightblue;
+}
+#left a:hover
+{
+  color: lightgrey;
+}

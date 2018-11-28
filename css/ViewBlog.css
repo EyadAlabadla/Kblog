@@ -1,0 +1,28 @@
+#blog h2
+{
+	text-align: center;
+	color: rgb(20, 20, 20);
+	text-decoration: underline;
+}	
+
+#blog
+{
+	margin: auto;
+	width: 85%;
+	padding: 10px;
+}
+Button
+{
+	width: 100px;
+	height: 20px;
+}
+
+#blog h4
+{
+	font-weight: normal;
+	
+}
+#left
+{
+	height: auto;
+}
